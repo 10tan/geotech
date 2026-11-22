@@ -1,0 +1,5 @@
+Borehole,Sample,Depth_m,Soil,w_Pct,LL_Pct,PL_Pct,Gs,Unit_Weight_Bulk_kNm3,Unit_Weight_Dry_kNm3,Unit_Weight_Notes,Gravel_Pct,Sand_Pct,Fines_Pct,Clay_Fraction_Pct
+BH-1,"DS-1, trial pit",1.20,SM,10.0,NP,NP,2.66,18.00,16.40,18.0 bulk; gamma_d = 16.4 (sand replacement),6,76,18,
+BH-1,SPT-3,4.50,SP,,NP,NP,2.65,,,,25,71,4,
+BH-1,UDS-1,7.00-7.45,CI,34.0,44,23,2.70,18.60,,18.6,0,7,93,32
+BH-1,UDS-2,9.50-9.95,CI,31.0,41,22,2.70,18.90,,18.9,0,5,95,35

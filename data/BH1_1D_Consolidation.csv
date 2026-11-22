@@ -1,0 +1,10 @@
+Borehole,Sample,Depth_m,Soil,Specimen_Size_mm,Initial_w_Pct,Initial_e0,Pressure_kg_cm2,Stage,Void_Ratio_e,cv_cm2_s
+BH-1,UDS-1,7.00-7.45,CI,60x20,34.0,0.918,0.10,Loading,0.914,
+BH-1,UDS-1,7.00-7.45,CI,60x20,34.0,0.918,0.25,Loading,0.897,1.2e-3
+BH-1,UDS-1,7.00-7.45,CI,60x20,34.0,0.918,0.50,Loading,0.882,1.1e-3
+BH-1,UDS-1,7.00-7.45,CI,60x20,34.0,0.918,1.00,Loading,0.853,8.9e-4
+BH-1,UDS-1,7.00-7.45,CI,60x20,34.0,0.918,2.00,Loading,0.779,6.3e-4
+BH-1,UDS-1,7.00-7.45,CI,60x20,34.0,0.918,4.00,Loading,0.692,5.0e-4
+BH-1,UDS-1,7.00-7.45,CI,60x20,34.0,0.918,8.00,Loading,0.603,4.4e-4
+BH-1,UDS-1,7.00-7.45,CI,60x20,34.0,0.918,2.00,Unloading,0.626,
+BH-1,UDS-1,7.00-7.45,CI,60x20,34.0,0.918,0.50,Unloading,0.649,

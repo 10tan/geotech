@@ -1,0 +1,4 @@
+Borehole,Box_Size_mm,Drainage,Specimen,Depth_m,Soil,Condition,Tau_f_at_50kPa_kPa,Tau_f_at_100kPa_kPa,Tau_f_at_150kPa_kPa
+BH-1,60x60,Drained,"SM from DS-1, remoulded to gamma_d = 16.4 kN/m3 at w = 10%",1.20,SM,Unsoaked,37.00,67.00,97.20
+BH-1,60x60,Drained,"SM from DS-1, remoulded to gamma_d = 16.4 kN/m3",1.20,SM,Soaked for 24 h,29.80,58.90,87.50
+BH-1,60x60,Drained,"SP from SPT-3, remoulded to estimated field density",4.50,SP,Soaked for 24 h,34.90,68.30,103.40

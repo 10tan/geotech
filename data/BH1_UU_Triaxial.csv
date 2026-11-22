@@ -1,0 +1,3 @@
+Borehole,Specimen_Size_mm,Test_Type,Sample,Depth_m,Soil,Deviator_Stress_at_50kPa_kPa,Deviator_Stress_at_100kPa_kPa,Deviator_Stress_at_150kPa_kPa
+BH-1,38x76,Unconsolidated Undrained (UU),UDS-1,7.00-7.45,CI,57.20,55.80,58.10
+BH-1,38x76,Unconsolidated Undrained (UU),UDS-2,9.50-9.95,CI,71.00,73.40,72.20
